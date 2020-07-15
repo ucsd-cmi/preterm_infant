@@ -1,0 +1,50 @@
+row ID	row m/z	row retention time	Annotation	Bile_Acid_Class	Bile_Acid_Subclass	Structural_Classification	Structural_Identification	StandardMatch
+5382	357.2797432	3.878019167	"Spectral Match to Chenodeoxycholic acid from NIST14	"	Primary	Not Conjugated	Primary	2 Hydroxyls	N/A
+7195	355.2627061	2.917640123	".beta.-Muricholic acid	"	Primary	Not Conjugated	Primary	3 Hydroxyls	N/A
+5091	355.2600881	2.951525758	"Spectral Match to Cholic acid from NIST14	"	Primary	Not Conjugated	Primary	3 Hydroxyls	N/A
+5559	373.2759857	3.214638889	".gamma.-Muricholic acid	"	Primary	Not Conjugated	Primary	3 Hydroxyls	N/A
+7770	426.3226509	3.280625	"Spectral Match to Cholic acid from NIST14	"	Primary	Not Conjugated	Primary	3 Hydroxyls	N/A
+11197	355.2623138	3.287333333	"Spectral Match to Cholic acid from NIST14	"	Primary	Not Conjugated	Primary	3 Hydroxyls	N/A
+8368	999.6018233	3.028548485	"taurohyodeoxycholic acid	"	Primary	Conjugated	Primary Conjugaed	"2 Hydroxyls, Taurine Conjugation"	N/A
+1066	414.2922284	2.648945975	Glycodeoxycholic acid	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Glycine Conjugation"	N/A
+1137	414.2905168	2.935864593	glycodeoxycholic acid	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Glycine Conjugation"	N/A
+4020	432.3114878	2.97840892	"Glycodeoxycholic acid	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Glycine Conjugation"	N/A
+11317	414.2990723	3.3330375	"glycoursodeoxycholic acid	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Glycine Conjugation"	N/A
+7239	432.3117676	3.333437879	"Glycoursodeoxycholic acid	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Glycine Conjugation"	N/A
+7649	450.3223018	3.338779825	"glycochenodeoxycholic acid	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Glycine Conjugation"	N/A
+8401	580.2591989	2.623238095	"2-((4R)-4-((3R,5R,9S,10S,12S,13R,14S,17R)-12-hydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Taurine Conjugation"	N/A
+4550	464.2865957	2.6806	"Tauroursodeoxycholic acid	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Taurine Conjugation"	N/A
+6876	482.2967649	2.704388889	"taurohyodeoxycholic acid	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Taurine Conjugation"	N/A
+6921	602.2434404	2.719327778	"2-((4R)-4-((3R,5R,9S,10S,12S,13R,14S,17R)-12-hydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Taurine Conjugation"	N/A
+7423	500.3021851	2.740850694	"Spectral Match to Tauroursodeoxycholic acid from NIST14	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Taurine Conjugation"	N/A
+1294	464.2841605	2.981803618	"Tauroursodeoxycholic acid	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Taurine Conjugation"	N/A
+11867	464.2825061	2.994864881	"Tauroursodeoxycholic acid	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Taurine Conjugation"	N/A
+5181	522.2855115	3.020829915	"2-((R)-4-((3S,5S,7S,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Taurine Conjugation"	N/A
+5983	500.3044284	3.034280702	"Spectral Match to Tauroursodeoxycholic acid from NIST14	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Taurine Conjugation"	N/A
+5228	482.2939507	3.038719144	"Tauroursodeoxycholic acid	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Taurine Conjugation"	N/A
+8691	482.2947817	3.177310417	"taurohyodeoxycholic acid	"	Primary	Conjugated	Primary Conjugated	"2 Hydroxyls, Taurine Conjugation"	N/A
+7138	448.3053534	2.727602	"Glycocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Glycine Conjugation"	N/A
+7173	466.3201361	2.782858333	Spectral Match to Glycocholic acid from NIST14	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Glycine Conjugation"	N/A
+6686	412.2768512	2.821117778	"Glycocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Glycine Conjugation"	N/A
+3673	466.3175976	2.885812281	Spectral Match to Glycocholic acid from NIST14	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Glycine Conjugation"	N/A
+10863	430.293457	2.926447222	"glycocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Glycine Conjugation"	N/A
+7060	448.3053117	2.974147917	"Glycocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Glycine Conjugation"	N/A
+9093	466.3008548	2.979127273	"Spectral Match to Glycocholic acid from NIST14	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Glycine Conjugation"	N/A
+12050	448.3060957	3.017811905	"glycocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Glycine Conjugation"	N/A
+13169	412.2833252	3.03065	"Glycocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Glycine Conjugation"	N/A
+1448	412.2784552	3.044466216	Glycocholic acid	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Glycine Conjugation"	N/A
+9150	596.2543182	1.905675	"Taurocholic Acid Sulfate	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+4134	596.2558228	1.918575556	"Taurocholic Acid Sulfate	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+6933	596.2587097	2.40761	"Taurocholic Acid Sulfate	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+9208	462.2671644	2.531944231	"taurocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+4602	516.3001991	2.641273333	"2-((4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+10636	1031.591117	2.643730952	"taurohyocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+7452	538.2765032	2.677282639	"Taurocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+9107	516.2974572	2.692739103	"2-((4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+9251	480.2783356	2.703630128	"taurocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+4591	516.2987371	2.71545791	"taurohyocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+4789	538.2786123	2.753650379	"Taurocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+9474	1031.590914	2.754378205	"taurocholic acid	"	Primary	Conjugated	Primary Conjugated	"3 Hydroxyls, Taurine Conjugation"	N/A
+10878	373.2756838	3.065052632	"(4R)-4-((3S,5R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	Secondary	Not Conjugated	Secondary	Oxidation	N/A
+10394	496.2732188	1.578088889	"2-((4R)-4-((5R,7R,8R,9S,10S,12S,13R,17R)-7,12-dihydroxy-10,13-dimethyl-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"	Secondary	Conjugated	Secondary Conjugated	"Oxidation, Taurine Conjugation"	N/A
+9174	514.2836952	2.223172917	"2-((4R)-4-((5R,7R,8R,9S,10S,12S,13R,17R)-7,12-dihydroxy-10,13-dimethyl-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid"	Secondary	Conjugated	Secondary Conjugated	"Oxidation, Taurine Conjugation"	N/A
