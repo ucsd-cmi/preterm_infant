@@ -1,0 +1,4 @@
+	method name	Test factor	Delivery mode	sample_type	abx	number of groups	pseudo-F	p-value
+PERMANOVA results	PERMANOVA	Birth weight	C-section	Stool	1	2	4.793178211504787	0.006
+PERMANOVA results	PERMANOVA	Birth weight	C-section	Oral	1	2	21.645064151078348	0.001
+PERMANOVA results	PERMANOVA	Birth weight	C-section	Skin	1	2	7.871009289180778	0.001

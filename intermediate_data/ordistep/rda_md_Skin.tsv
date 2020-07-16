@@ -1,0 +1,330 @@
+X.SampleID	metadata_abx	delivery_mode	qiita_study_id	age	randomization
+11712.SUBJECT1.SKIN.11	0.0	c-section	11712	1.0	Formula
+11712.SUBJECT1.SKIN.12	0.0	c-section	11712	2.0	Formula
+11712.SUBJECT1.SKIN.13	0.0	c-section	11712	3.0	Formula
+11712.SUBJECT1.SKIN.14	0.0	c-section	11712	4.0	Formula
+11712.SUBJECT1.SKIN.15	0.0	c-section	11712	5.0	Formula
+11712.SUBJECT1.SKIN.16	0.0	c-section	11712	6.0	Formula
+11712.SUBJECT1.SKIN.17	0.0	c-section	11712	7.0	Formula
+11712.SUBJECT10.SKIN.38	0.0	c-section	11712	0.0	Donor human milk
+11712.SUBJECT10.SKIN.40	0.0	c-section	11712	2.0	Donor human milk
+11712.SUBJECT10.SKIN.41	0.0	c-section	11712	3.0	Donor human milk
+11712.SUBJECT10.SKIN.42	0.0	c-section	11712	4.0	Donor human milk
+11712.SUBJECT10.SKIN.43	0.0	c-section	11712	5.0	Donor human milk
+11712.SUBJECT10.SKIN.44	0.0	c-section	11712	6.0	Donor human milk
+11712.SUBJECT10.SKIN.45	0.0	c-section	11712	7.0	Donor human milk
+11712.SUBJECT11.SKIN.57	0.0	vaginal	11712	0.0	Donor human milk
+11712.SUBJECT11.SKIN.58	0.0	vaginal	11712	1.0	Donor human milk
+11712.SUBJECT11.SKIN.59	0.0	vaginal	11712	2.0	Donor human milk
+11712.SUBJECT11.SKIN.60	0.0	vaginal	11712	3.0	Donor human milk
+11712.SUBJECT12.SKIN.79	0.0	vaginal	11712	0.0	Donor human milk
+11712.SUBJECT12.SKIN.80	0.0	vaginal	11712	2.0	Donor human milk
+11712.SUBJECT12.SKIN.81	0.0	vaginal	11712	3.0	Donor human milk
+11712.SUBJECT12.SKIN.82	0.0	vaginal	11712	4.0	Donor human milk
+11712.SUBJECT12.SKIN.83	0.0	vaginal	11712	5.0	Donor human milk
+11712.SUBJECT12.SKIN.84	0.0	vaginal	11712	6.0	Donor human milk
+11712.SUBJECT12.SKIN.85	0.0	vaginal	11712	7.0	Donor human milk
+11712.SUBJECT13.SKIN.111	0.0	vaginal	11712	0.0	Donor human milk
+11712.SUBJECT13.SKIN.112	0.0	vaginal	11712	1.0	Donor human milk
+11712.SUBJECT13.SKIN.113	0.0	vaginal	11712	2.0	Donor human milk
+11712.SUBJECT14.SKIN.127	0.0	vaginal	11712	1.0	Formula
+11712.SUBJECT14.SKIN.129	0.0	vaginal	11712	3.0	Formula
+11712.SUBJECT14.SKIN.130	0.0	vaginal	11712	4.0	Formula
+11712.SUBJECT14.SKIN.131	0.0	vaginal	11712	5.0	Formula
+11712.SUBJECT14.SKIN.132	0.0	vaginal	11712	6.0	Formula
+11712.SUBJECT14.SKIN.133	0.0	vaginal	11712	7.0	Formula
+11712.SUBJECT15.SKIN.148	0.0	vaginal	11712	0.0	Formula
+11712.SUBJECT15.SKIN.149	0.0	vaginal	11712	1.0	Formula
+11712.SUBJECT15.SKIN.150	0.0	vaginal	11712	2.0	Formula
+11712.SUBJECT16.SKIN.170	0.0	c-section	11712	0.0	Donor human milk
+11712.SUBJECT16.SKIN.172	0.0	c-section	11712	2.0	Donor human milk
+11712.SUBJECT16.SKIN.173	0.0	c-section	11712	3.0	Donor human milk
+11712.SUBJECT16.SKIN.174	0.0	c-section	11712	4.0	Donor human milk
+11712.SUBJECT16.SKIN.176	0.0	c-section	11712	6.0	Donor human milk
+11712.SUBJECT16.SKIN.177	0.0	c-section	11712	7.0	Donor human milk
+11712.SUBJECT17.SKIN.224	0.0	vaginal	11712	0.0	Formula
+11712.SUBJECT17.SKIN.225	0.0	vaginal	11712	1.0	Formula
+11712.SUBJECT17.SKIN.226	0.0	vaginal	11712	2.0	Formula
+11712.SUBJECT17.SKIN.227	0.0	vaginal	11712	3.0	Formula
+11712.SUBJECT17.SKIN.228	0.0	vaginal	11712	4.0	Formula
+11712.SUBJECT17.SKIN.229	0.0	vaginal	11712	5.0	Formula
+11712.SUBJECT17.SKIN.238	1.0	vaginal	11712	6.0	Formula
+11712.SUBJECT17.SKIN.239	1.0	vaginal	11712	7.0	Formula
+11712.SUBJECT18.SKIN.291	0.0	c-section	11712	0.0	Formula
+11712.SUBJECT18.SKIN.293	1.0	c-section	11712	2.0	Formula
+11712.SUBJECT18.SKIN.294	1.0	c-section	11712	3.0	Formula
+11712.SUBJECT18.SKIN.295	1.0	c-section	11712	4.0	Formula
+11712.SUBJECT18.SKIN.296	1.0	c-section	11712	5.0	Formula
+11712.SUBJECT18.SKIN.297	1.0	c-section	11712	6.0	Formula
+11712.SUBJECT18.SKIN.298	1.0	c-section	11712	7.0	Formula
+11712.SUBJECT19.SKIN.350	0.0	c-section	11712	1.0	Formula
+11712.SUBJECT19.SKIN.351	0.0	c-section	11712	2.0	Formula
+11712.SUBJECT19.SKIN.352	0.0	c-section	11712	3.0	Formula
+11712.SUBJECT19.SKIN.353	0.0	c-section	11712	4.0	Formula
+11712.SUBJECT19.SKIN.354	0.0	c-section	11712	5.0	Formula
+11712.SUBJECT19.SKIN.355	0.0	c-section	11712	7.0	Formula
+11712.SUBJECT2.SKIN.384	0.0	c-section	11712	1.0	Donor human milk
+11712.SUBJECT2.SKIN.385	0.0	c-section	11712	2.0	Donor human milk
+11712.SUBJECT2.SKIN.386	0.0	c-section	11712	4.0	Donor human milk
+11712.SUBJECT20.SKIN.406	0.0	c-section	11712	0.0	Formula
+11712.SUBJECT20.SKIN.407	0.0	c-section	11712	1.0	Formula
+11712.SUBJECT20.SKIN.408	0.0	c-section	11712	2.0	Formula
+11712.SUBJECT20.SKIN.409	0.0	c-section	11712	3.0	Formula
+11712.SUBJECT20.SKIN.410	0.0	c-section	11712	5.0	Formula
+11712.SUBJECT20.SKIN.411	0.0	c-section	11712	7.0	Formula
+11712.SUBJECT21.SKIN.446	0.0	vaginal	11712	0.0	Donor human milk
+11712.SUBJECT21.SKIN.447	0.0	vaginal	11712	1.0	Donor human milk
+11712.SUBJECT21.SKIN.449	0.0	vaginal	11712	3.0	Donor human milk
+11712.SUBJECT21.SKIN.450	0.0	vaginal	11712	4.0	Donor human milk
+11712.SUBJECT21.SKIN.451	0.0	vaginal	11712	5.0	Donor human milk
+11712.SUBJECT21.SKIN.452	1.0	vaginal	11712	6.0	Donor human milk
+11712.SUBJECT21.SKIN.453	1.0	vaginal	11712	7.0	Donor human milk
+11712.SUBJECT22.SKIN.471	0.0	c-section	11712	0.0	Donor human milk
+11712.SUBJECT22.SKIN.472	0.0	c-section	11712	1.0	Donor human milk
+11712.SUBJECT22.SKIN.473	0.0	c-section	11712	2.0	Donor human milk
+11712.SUBJECT22.SKIN.474	0.0	c-section	11712	3.0	Donor human milk
+11712.SUBJECT22.SKIN.475	0.0	c-section	11712	4.0	Donor human milk
+11712.SUBJECT23.SKIN.489	0.0	c-section	11712	0.0	Formula
+11712.SUBJECT23.SKIN.490	0.0	c-section	11712	1.0	Formula
+11712.SUBJECT23.SKIN.491	0.0	c-section	11712	2.0	Formula
+11712.SUBJECT23.SKIN.492	0.0	c-section	11712	3.0	Formula
+11712.SUBJECT23.SKIN.493	0.0	c-section	11712	4.0	Formula
+11712.SUBJECT23.SKIN.494	0.0	c-section	11712	5.0	Formula
+11712.SUBJECT23.SKIN.495	0.0	c-section	11712	6.0	Formula
+11712.SUBJECT23.SKIN.496	0.0	c-section	11712	7.0	Formula
+11712.SUBJECT24.SKIN.514	0.0	vaginal	11712	0.0	Donor human milk
+11712.SUBJECT24.SKIN.515	0.0	vaginal	11712	1.0	Donor human milk
+11712.SUBJECT24.SKIN.516	0.0	vaginal	11712	2.0	Donor human milk
+11712.SUBJECT24.SKIN.517	0.0	vaginal	11712	3.0	Donor human milk
+11712.SUBJECT24.SKIN.518	0.0	vaginal	11712	4.0	Donor human milk
+11712.SUBJECT24.SKIN.519	0.0	vaginal	11712	5.0	Donor human milk
+11712.SUBJECT24.SKIN.520	0.0	vaginal	11712	6.0	Donor human milk
+11712.SUBJECT25.SKIN.537	0.0	vaginal	11712	0.0	Formula
+11712.SUBJECT25.SKIN.538	0.0	vaginal	11712	1.0	Formula
+11712.SUBJECT25.SKIN.539	0.0	vaginal	11712	2.0	Formula
+11712.SUBJECT25.SKIN.540	0.0	vaginal	11712	3.0	Formula
+11712.SUBJECT25.SKIN.541	0.0	vaginal	11712	4.0	Formula
+11712.SUBJECT25.SKIN.542	0.0	vaginal	11712	5.0	Formula
+11712.SUBJECT25.SKIN.543	0.0	vaginal	11712	6.0	Formula
+11712.SUBJECT25.SKIN.544	0.0	vaginal	11712	7.0	Formula
+11712.SUBJECT26.SKIN.561	0.0	vaginal	11712	0.0	Donor human milk
+11712.SUBJECT26.SKIN.562	0.0	vaginal	11712	1.0	Donor human milk
+11712.SUBJECT26.SKIN.563	1.0	vaginal	11712	2.0	Donor human milk
+11712.SUBJECT26.SKIN.564	1.0	vaginal	11712	3.0	Donor human milk
+11712.SUBJECT26.SKIN.565	1.0	vaginal	11712	4.0	Donor human milk
+11712.SUBJECT26.SKIN.566	1.0	vaginal	11712	5.0	Donor human milk
+11712.SUBJECT27.SKIN.577	0.0	vaginal	11712	0.0	Donor human milk
+11712.SUBJECT27.SKIN.578	0.0	vaginal	11712	1.0	Donor human milk
+11712.SUBJECT27.SKIN.579	0.0	vaginal	11712	2.0	Donor human milk
+11712.SUBJECT27.SKIN.580	0.0	vaginal	11712	3.0	Donor human milk
+11712.SUBJECT28.SKIN.592	0.0	vaginal	11712	0.0	Formula
+11712.SUBJECT28.SKIN.593	0.0	vaginal	11712	1.0	Formula
+11712.SUBJECT28.SKIN.594	0.0	vaginal	11712	2.0	Formula
+11712.SUBJECT28.SKIN.595	0.0	vaginal	11712	3.0	Formula
+11712.SUBJECT28.SKIN.596	0.0	vaginal	11712	4.0	Formula
+11712.SUBJECT28.SKIN.597	0.0	vaginal	11712	5.0	Formula
+11712.SUBJECT28.SKIN.598	0.0	vaginal	11712	6.0	Formula
+11712.SUBJECT28.SKIN.599	0.0	vaginal	11712	7.0	Formula
+11712.SUBJECT29.SKIN.612	0.0	c-section	11712	0.0	Donor human milk
+11712.SUBJECT29.SKIN.613	1.0	c-section	11712	1.0	Donor human milk
+11712.SUBJECT29.SKIN.614	1.0	c-section	11712	2.0	Donor human milk
+11712.SUBJECT29.SKIN.615	1.0	c-section	11712	3.0	Donor human milk
+11712.SUBJECT29.SKIN.616	1.0	c-section	11712	4.0	Donor human milk
+11712.SUBJECT3.SKIN.631	0.0	c-section	11712	4.0	Donor human milk
+11712.SUBJECT3.SKIN.632	0.0	c-section	11712	5.0	Donor human milk
+11712.SUBJECT3.SKIN.633	0.0	c-section	11712	6.0	Donor human milk
+11712.SUBJECT3.SKIN.634	0.0	c-section	11712	7.0	Donor human milk
+11712.SUBJECT30.SKIN.658	1.0	vaginal	11712	4.0	Donor human milk
+11712.SUBJECT30.SKIN.663	1.0	vaginal	11712	5.0	Donor human milk
+11712.SUBJECT30.SKIN.664	1.0	vaginal	11712	6.0	Donor human milk
+11712.SUBJECT30.SKIN.665	1.0	vaginal	11712	7.0	Donor human milk
+11712.SUBJECT30.SKIN.671	0.0	vaginal	11712	0.0	Donor human milk
+11712.SUBJECT30.SKIN.672	1.0	vaginal	11712	1.0	Donor human milk
+11712.SUBJECT30.SKIN.673	1.0	vaginal	11712	2.0	Donor human milk
+11712.SUBJECT30.SKIN.674	1.0	vaginal	11712	3.0	Donor human milk
+11712.SUBJECT32.SKIN.716	0.0	vaginal	11712	1.0	Formula
+11712.SUBJECT32.SKIN.717	0.0	vaginal	11712	2.0	Formula
+11712.SUBJECT32.SKIN.718	0.0	vaginal	11712	3.0	Formula
+11712.SUBJECT34.SKIN.737	0.0	vaginal	11712	2.0	Formula
+11712.SUBJECT34.SKIN.738	0.0	vaginal	11712	3.0	Formula
+11712.SUBJECT34.SKIN.739	0.0	vaginal	11712	4.0	Formula
+11712.SUBJECT34.SKIN.740	0.0	vaginal	11712	5.0	Formula
+11712.SUBJECT34.SKIN.741	0.0	vaginal	11712	6.0	Formula
+11712.SUBJECT34.SKIN.742	0.0	vaginal	11712	7.0	Formula
+11712.SUBJECT35.SKIN.759	0.0	c-section	11712	2.0	Formula
+11712.SUBJECT35.SKIN.760	0.0	c-section	11712	3.0	Formula
+11712.SUBJECT35.SKIN.761	0.0	c-section	11712	4.0	Formula
+11712.SUBJECT35.SKIN.762	0.0	c-section	11712	5.0	Formula
+11712.SUBJECT35.SKIN.763	0.0	c-section	11712	6.0	Formula
+11712.SUBJECT36.SKIN.778	1.0	c-section	11712	2.0	Formula
+11712.SUBJECT36.SKIN.780	1.0	c-section	11712	4.0	Formula
+11712.SUBJECT36.SKIN.781	1.0	c-section	11712	5.0	Formula
+11712.SUBJECT37.SKIN.799	1.0	c-section	11712	5.0	Donor human milk
+11712.SUBJECT38.SKIN.813	0.0	c-section	11712	3.0	Donor human milk
+11712.SUBJECT38.SKIN.814	0.0	c-section	11712	4.0	Donor human milk
+11712.SUBJECT38.SKIN.815	0.0	c-section	11712	5.0	Donor human milk
+11712.SUBJECT38.SKIN.816	0.0	c-section	11712	6.0	Donor human milk
+11712.SUBJECT38.SKIN.817	0.0	c-section	11712	7.0	Donor human milk
+11712.SUBJECT38.SKIN.820	0.0	c-section	11712	2.0	Donor human milk
+11712.SUBJECT39.SKIN.832	0.0	c-section	11712	1.0	Formula
+11712.SUBJECT39.SKIN.835	0.0	c-section	11712	4.0	Formula
+11712.SUBJECT4.SKIN.850	0.0	c-section	11712	0.0	Donor human milk
+11712.SUBJECT4.SKIN.851	0.0	c-section	11712	1.0	Donor human milk
+11712.SUBJECT4.SKIN.853	0.0	c-section	11712	4.0	Donor human milk
+11712.SUBJECT4.SKIN.854	0.0	c-section	11712	5.0	Donor human milk
+11712.SUBJECT4.SKIN.855	0.0	c-section	11712	6.0	Donor human milk
+11712.SUBJECT4.SKIN.856	0.0	c-section	11712	7.0	Donor human milk
+11712.SUBJECT40.SKIN.902	0.0	c-section	11712	1.0	Formula
+11712.SUBJECT40.SKIN.903	0.0	c-section	11712	2.0	Formula
+11712.SUBJECT40.SKIN.904	0.0	c-section	11712	3.0	Formula
+11712.SUBJECT40.SKIN.905	1.0	c-section	11712	4.0	Formula
+11712.SUBJECT40.SKIN.906	1.0	c-section	11712	5.0	Formula
+11712.SUBJECT40.SKIN.907	1.0	c-section	11712	6.0	Formula
+11712.SUBJECT40.SKIN.908	1.0	c-section	11712	7.0	Formula
+11712.SUBJECT41.SKIN.947	0.0	c-section	11712	3.0	Formula
+11712.SUBJECT41.SKIN.952	0.0	c-section	11712	4.0	Formula
+11712.SUBJECT41.SKIN.953	0.0	c-section	11712	5.0	Formula
+11712.SUBJECT41.SKIN.954	0.0	c-section	11712	6.0	Formula
+11712.SUBJECT41.SKIN.955	0.0	c-section	11712	7.0	Formula
+11712.SUBJECT41.SKIN.960	0.0	c-section	11712	0.0	Formula
+11712.SUBJECT41.SKIN.961	0.0	c-section	11712	1.0	Formula
+11712.SUBJECT41.SKIN.962	0.0	c-section	11712	2.0	Formula
+11712.SUBJECT42.SKIN.1001	0.0	vaginal	11712	2.0	Formula
+11712.SUBJECT42.SKIN.1002	0.0	vaginal	11712	3.0	Formula
+11712.SUBJECT42.SKIN.1003	0.0	vaginal	11712	4.0	Formula
+11712.SUBJECT42.SKIN.1004	0.0	vaginal	11712	5.0	Formula
+11712.SUBJECT42.SKIN.1005	0.0	vaginal	11712	6.0	Formula
+11712.SUBJECT42.SKIN.1006	0.0	vaginal	11712	7.0	Formula
+11712.SUBJECT42.SKIN.1009	0.0	vaginal	11712	0.0	Formula
+11712.SUBJECT42.SKIN.994	0.0	vaginal	11712	1.0	Formula
+11712.SUBJECT43.SKIN.1044	1.0	c-section	11712	5.0	Donor human milk
+11712.SUBJECT43.SKIN.1045	1.0	c-section	11712	6.0	Donor human milk
+11712.SUBJECT43.SKIN.1046	1.0	c-section	11712	7.0	Donor human milk
+11712.SUBJECT43.SKIN.1060	0.0	c-section	11712	1.0	Donor human milk
+11712.SUBJECT43.SKIN.1061	0.0	c-section	11712	2.0	Donor human milk
+11712.SUBJECT43.SKIN.1062	0.0	c-section	11712	3.0	Donor human milk
+11712.SUBJECT43.SKIN.1063	1.0	c-section	11712	4.0	Donor human milk
+11712.SUBJECT5.SKIN.1085	0.0	c-section	11712	0.0	Formula
+11712.SUBJECT5.SKIN.1086	0.0	c-section	11712	2.0	Formula
+11712.SUBJECT6.SKIN.1092	0.0	c-section	11712	0.0	Formula
+11712.SUBJECT6.SKIN.1095	0.0	c-section	11712	3.0	Formula
+11712.SUBJECT6.SKIN.1096	0.0	c-section	11712	4.0	Formula
+11712.SUBJECT7.SKIN.1110	0.0	c-section	11712	4.0	Formula
+11712.SUBJECT8.SKIN.1133	1.0	vaginal	11712	7.0	Formula
+11712.SUBJECT8.SKIN.1143	0.0	vaginal	11712	0.0	Formula
+11712.SUBJECT8.SKIN.1144	1.0	vaginal	11712	1.0	Formula
+11712.SUBJECT8.SKIN.1145	1.0	vaginal	11712	2.0	Formula
+11712.SUBJECT8.SKIN.1146	1.0	vaginal	11712	3.0	Formula
+11712.SUBJECT8.SKIN.1147	1.0	vaginal	11712	4.0	Formula
+11712.SUBJECT8.SKIN.1148	1.0	vaginal	11712	5.0	Formula
+11712.SUBJECT8.SKIN.1149	1.0	vaginal	11712	6.0	Formula
+11712.SUBJECT9.SKIN.1185	0.0	vaginal	11712	0.0	Donor human milk
+11712.SUBJECT9.SKIN.1186	1.0	vaginal	11712	1.0	Donor human milk
+11712.SUBJECT9.SKIN.1187	1.0	vaginal	11712	2.0	Donor human milk
+11712.SUBJECT9.SKIN.1188	1.0	vaginal	11712	3.0	Donor human milk
+11712.SUBJECT9.SKIN.1189	1.0	vaginal	11712	4.0	Donor human milk
+11712.SUBJECT9.SKIN.1190	1.0	vaginal	11712	5.0	Donor human milk
+11712.SUBJECT9.SKIN.1191	1.0	vaginal	11712	6.0	Donor human milk
+11712.SUBJECT9.SKIN.1192	1.0	vaginal	11712	7.0	Donor human milk
+11713.1.S.1C	1.0	c-section	11713	3.0	mother's own milk
+11713.1.S.1D	1.0	c-section	11713	4.0	mother's own milk
+11713.1.S.1E	1.0	c-section	11713	5.0	mother's own milk
+11713.1.S.1F	1.0	c-section	11713	6.0	mother's own milk
+11713.1.S.1G	1.0	c-section	11713	7.0	mother's own milk
+11713.10.S.10A	1.0	c-section	11713	1.0	mother's own milk
+11713.10.S.10B	1.0	c-section	11713	2.0	mother's own milk
+11713.10.S.10C	1.0	c-section	11713	3.0	mother's own milk
+11713.10.S.10D	1.0	c-section	11713	5.0	mother's own milk
+11713.10.S.10E	1.0	c-section	11713	6.0	mother's own milk
+11713.11.S.11A	1.0	c-section	11713	1.0	mother's own milk
+11713.11.S.11B	1.0	c-section	11713	2.0	mother's own milk
+11713.11.S.11C	1.0	c-section	11713	3.0	mother's own milk
+11713.11.S.11D	1.0	c-section	11713	4.0	mother's own milk
+11713.11.S.11E	1.0	c-section	11713	5.0	mother's own milk
+11713.11.S.11F	1.0	c-section	11713	6.0	mother's own milk
+11713.12.S.12A	1.0	c-section	11713	1.0	mother's own milk
+11713.12.S.12B	1.0	c-section	11713	2.0	mother's own milk
+11713.12.S.12C	1.0	c-section	11713	3.0	mother's own milk
+11713.12.S.12D	1.0	c-section	11713	4.0	mother's own milk
+11713.12.S.12E	1.0	c-section	11713	5.0	mother's own milk
+11713.12.S.12F	1.0	c-section	11713	6.0	mother's own milk
+11713.13.S.13A	1.0	c-section	11713	2.0	mother's own milk
+11713.13.S.13B	1.0	c-section	11713	3.0	mother's own milk
+11713.13.S.13C	1.0	c-section	11713	4.0	mother's own milk
+11713.13.S.13D	1.0	c-section	11713	6.0	mother's own milk
+11713.13.S.13E	1.0	c-section	11713	7.0	mother's own milk
+11713.14.S.14A	1.0	c-section	11713	0.0	mother's own milk
+11713.14.S.14B	1.0	c-section	11713	1.0	mother's own milk
+11713.14.S.14C	1.0	c-section	11713	5.0	mother's own milk
+11713.14.S.14D	1.0	c-section	11713	6.0	mother's own milk
+11713.15.S.15A	1.0	c-section	11713	1.0	mother's own milk
+11713.15.S.15B	1.0	c-section	11713	2.0	mother's own milk
+11713.15.S.15C	1.0	c-section	11713	3.0	mother's own milk
+11713.15.S.15D	1.0	c-section	11713	4.0	mother's own milk
+11713.15.S.15E	1.0	c-section	11713	5.0	Donor human milk
+11713.15.S.15F	1.0	c-section	11713	6.0	mother's own milk
+11713.15.S.15G	1.0	c-section	11713	7.0	mother's own milk
+11713.16.S.16A	1.0	c-section	11713	1.0	mother's own milk
+11713.16.S.16B	1.0	c-section	11713	2.0	mother's own milk
+11713.16.S.16C	1.0	c-section	11713	3.0	mother's own milk
+11713.16.S.16D	1.0	c-section	11713	4.0	mother's own milk
+11713.16.S.16E	1.0	c-section	11713	5.0	mother's own milk
+11713.16.S.16F	1.0	c-section	11713	6.0	mother's own milk
+11713.16.S.16G	1.0	c-section	11713	7.0	mother's own milk
+11713.17.S.17A	1.0	c-section	11713	1.0	mother's own milk
+11713.17.S.17B	1.0	c-section	11713	2.0	mother's own milk
+11713.17.S.17C	1.0	c-section	11713	3.0	mother's own milk
+11713.17.S.17D	1.0	c-section	11713	4.0	mother's own milk
+11713.17.S.17E	1.0	c-section	11713	5.0	mother's own milk
+11713.17.S.17F	1.0	c-section	11713	6.0	mother's own milk
+11713.17.S.17G	1.0	c-section	11713	7.0	mother's own milk
+11713.18.S.18A	1.0	c-section	11713	1.0	mother's own milk
+11713.18.S.18B	1.0	c-section	11713	2.0	mother's own milk
+11713.18.S.18C	1.0	c-section	11713	3.0	mother's own milk
+11713.18.S.18D	1.0	c-section	11713	4.0	mother's own milk
+11713.18.S.18E	1.0	c-section	11713	5.0	mother's own milk
+11713.18.S.18F	1.0	c-section	11713	6.0	mother's own milk
+11713.18.S.18G	1.0	c-section	11713	7.0	mother's own milk
+11713.20.S.20A	1.0	c-section	11713	0.0	mother's own milk
+11713.20.S.20B	1.0	c-section	11713	2.0	mother's own milk
+11713.20.S.20C	1.0	c-section	11713	3.0	mother's own milk
+11713.20.S.20D	1.0	c-section	11713	4.0	mother's own milk
+11713.20.S.20E	1.0	c-section	11713	5.0	mother's own milk
+11713.20.S.20F	1.0	c-section	11713	6.0	mother's own milk
+11713.21.S.21A	1.0	c-section	11713	2.0	mother's own milk
+11713.21.S.21B	1.0	c-section	11713	3.0	mother's own milk
+11713.21.S.21C	1.0	c-section	11713	4.0	mother's own milk
+11713.21.S.21E	1.0	c-section	11713	6.0	mother's own milk
+11713.21.S.21F	1.0	c-section	11713	7.0	mother's own milk
+11713.22.S.22B	1.0	c-section	11713	3.0	mother's own milk
+11713.22.S.22C	1.0	c-section	11713	4.0	mother's own milk
+11713.22.S.22D	1.0	c-section	11713	5.0	mother's own milk
+11713.22.S.22E	1.0	c-section	11713	6.0	mother's own milk
+11713.22.S.22F	1.0	c-section	11713	7.0	mother's own milk
+11713.25.S.25C	1.0	c-section	11713	3.0	Donor human milk
+11713.25.S.25D	1.0	c-section	11713	4.0	Donor human milk
+11713.25.S.25E	1.0	c-section	11713	5.0	Donor human milk
+11713.25.S.25F	1.0	c-section	11713	6.0	Donor human milk
+11713.25.S.25G	1.0	c-section	11713	7.0	Donor human milk
+11713.3.S.3A	1.0	c-section	11713	0.0	Donor human milk
+11713.3.S.3B	1.0	c-section	11713	1.0	Donor human milk
+11713.3.S.3C	1.0	c-section	11713	2.0	Donor human milk
+11713.4.S.4A	1.0	c-section	11713	1.0	Donor human milk
+11713.4.S.4B	1.0	c-section	11713	2.0	Donor human milk
+11713.4.S.4C	1.0	c-section	11713	3.0	Donor human milk
+11713.4.S.4D	1.0	c-section	11713	4.0	Donor human milk
+11713.4.S.4E	1.0	c-section	11713	5.0	Donor human milk
+11713.4.S.4F	1.0	c-section	11713	6.0	Donor human milk
+11713.4.S.4G	1.0	c-section	11713	7.0	Donor human milk
+11713.5.S.5B	1.0	c-section	11713	2.0	Donor human milk
+11713.5.S.5C	1.0	c-section	11713	3.0	Donor human milk
+11713.5.S.5D	1.0	c-section	11713	4.0	Donor human milk
+11713.5.S.5E	1.0	c-section	11713	6.0	Donor human milk
+11713.5.S.5F	1.0	c-section	11713	7.0	Donor human milk
+11713.8.S.8A	1.0	c-section	11713	1.0	Donor human milk
+11713.8.S.8B	1.0	c-section	11713	2.0	Donor human milk
+11713.8.S.8C	1.0	c-section	11713	3.0	Donor human milk
+11713.8.S.8D	1.0	c-section	11713	4.0	Donor human milk
+11713.8.S.8E	1.0	c-section	11713	5.0	Donor human milk
+11713.8.S.8F	1.0	c-section	11713	6.0	Donor human milk
+11713.8.S.8G	1.0	c-section	11713	7.0	Donor human milk

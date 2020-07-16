@@ -1,0 +1,7 @@
+	method name	Test factor	birth weight	sample_type	abx	number of groups	pseudo-F	p-value
+PERMANOVA results	PERMANOVA	delivery mode	LPI	Stool	1	2	9.396774605759683	0.001
+PERMANOVA results	PERMANOVA	delivery mode	LPI	Stool	0	2	33.72477451406923	0.001
+PERMANOVA results	PERMANOVA	delivery mode	LPI	Oral	1	2	2.913421853566983	0.067
+PERMANOVA results	PERMANOVA	delivery mode	LPI	Oral	0	2	4.4069122820544155	0.012
+PERMANOVA results	PERMANOVA	delivery mode	LPI	Skin	1	2	0.09585975314233036	0.958
+PERMANOVA results	PERMANOVA	delivery mode	LPI	Skin	0	2	5.416914070405282	0.003

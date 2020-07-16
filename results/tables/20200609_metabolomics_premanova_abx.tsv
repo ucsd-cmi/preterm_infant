@@ -1,0 +1,7 @@
+	method name	Test factor	Cohort	sample_type	number of groups	pseudo-F	p-value
+PERMANOVA results	PERMANOVA	Antibiotics	LPI-Vaginal	Stool	2	0.48823194935275344	0.608
+PERMANOVA results	PERMANOVA	Antibiotics	LPI-Vaginal	Oral	2	6.866756821949297	0.002
+PERMANOVA results	PERMANOVA	Antibiotics	LPI-Vaginal	Skin	2	7.0532224426409975	0.006
+PERMANOVA results	PERMANOVA	Antibiotics	LPI-C-section	Stool	2	2.9665204978905324	0.036
+PERMANOVA results	PERMANOVA	Antibiotics	LPI-C-section	Oral	2	0.7980963850022368	0.425
+PERMANOVA results	PERMANOVA	Antibiotics	LPI-C-section	Skin	2	1.218216169229883	0.275
